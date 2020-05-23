@@ -1,0 +1,16 @@
+{
+    "name": "pagina_web_tecnologia_sin_frontera",
+    "version": "1.0.0",
+    "description": "primera entrega",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+
+    },
+    "author": "Hello world - grupo de desarrollo",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "serve-favicon": "^2.5.0"
+    }
+}
