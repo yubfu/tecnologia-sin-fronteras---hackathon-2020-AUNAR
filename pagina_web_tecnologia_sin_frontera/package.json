@@ -10,7 +10,7 @@
     "author": "Hello world - grupo de desarrollo",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.18.2",
         "serve-favicon": "^2.5.0"
     }
 }
